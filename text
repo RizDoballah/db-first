@@ -1,0 +1,17 @@
+Auto Usate
+
+Id PRIMARY_KEY -UNIQUE
+Modello -stringa varchar(40)- NOTNULL
+Marca -stringa varchar(20)- NOTNULL
+Cambio -stringa -varchar(15)
+Colore -stringa -varchar(20)
+Numero porte -tinyint
+Marce -tinyint
+Carburante -varchar(10)
+Cavalli -mediumint
+Anno -data year -NOTNULL
+Km Percorsi -int -NOTNULL
+Revisionata -tinyint -NOTNULL
+Prezzo Vendita -mediumint -NOTNULL
+luogo -varchar(15)
+Imagine -stringa -TEXT DEFAULT
